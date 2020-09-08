@@ -11,6 +11,12 @@
 
 ## Screenshot Tour
 
+veeva vault data source general information
+
+![](https://www.evernote.com/l/AAE4K0xTZj9ISLsONEom0QqFaIaMVLrjUnsB/image.png)
+
+![](https://www.evernote.com/l/AAHUtXCllmhCcL9GDEM3niCGEzB9JgG-3OsB/image.png)
+
 veeva vault org
 
 ![](https://www.evernote.com/l/AAGxHwv8cW9MeIDr3Cz9Duqg7wr5Oj6ukrkB/image.png)
