@@ -6,7 +6,7 @@
 
 * no events from Vault.  only poll / query existing data manually or via trigger.
 * at the time (2020-09-08) EventBridge was not available as a destination.
-  * available destinations: redhsift, s3, saelsforce
+  * available destinations: redshift, s3, salesforce
 
 ## Screenshot Tour
 
