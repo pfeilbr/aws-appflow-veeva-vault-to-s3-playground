@@ -4,7 +4,8 @@
 
 ## Notes
 
-* no events from Vault.  only poll / query existing data manually or via trigger.
+* no events from Vault.  only poll / query existing data manually/on demand or schedule.
+    ![](https://www.evernote.com/l/AAF3BbJNMHdIaLNUl9hNZAHO8Zr3e7bSZ1MB/image.png)
 * at the time (2020-09-08) EventBridge was not available as a destination.
   * available destinations: redshift, s3, salesforce
 
